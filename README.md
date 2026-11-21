@@ -1,4 +1,4 @@
-\# Quickload quicksave mod
+# Quickload quicksave mod
 
 
 
@@ -10,7 +10,7 @@ It works by patching the Savior Object (The base save manager from the game) to 
 
 
 
-\# Keybinds:
+# Keybinds:
 
 * F8 - Quick Save
 * F10 - Quick Load
