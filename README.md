@@ -17,6 +17,6 @@ It works by patching the Savior Object (The base save manager from the game) to 
 * F1 - Toggle Keybinds
 
 
-
+### AI Disclosure
 Claude was used to generate the style boilerplate of the in game tooltip since I have no experience with Unity UI.
 
